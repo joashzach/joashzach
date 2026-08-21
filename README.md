@@ -1,16 +1,59 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**joashzach/joashzach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey, I'm Joash👋
 
-Here are some ideas to get you started:
+### Full-Stack Developer | MERN Stack | AI Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## About Me
+
+→ I'm a **full-stack developer**, with a growing interest in backend engineering and **Artificial Intelligence**.  
+→ I enjoy building modern web applications, designing **RESTful APIs**, and working with **MVC architecture**.  
+→ Currently strengthening my **MERN stack** skills while exploring scalable systems and **AI-powered applications**.
+
+---
+
+## Tech Stack
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js&perline=3" height="42" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,react&perline=3" height="42" />
+
+### Backend & Database
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres&perline=4" height="42" />
+
+### Deployment & Tools
+
+<img src="https://skillicons.dev/icons?i=vercel,git,github,vscode,postman&perline=5" height="38" />
+
+---
+
+## Let's Connect!
+
+### Open to collaboration, interesting projects, and conversations around technology.
+
+<br/>
+
+<div align="left">
+
+<a href="https://www.linkedin.com/in/joashzach">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:joashzachh7@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://www.instagram.com/joashzach">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+
+</div>
